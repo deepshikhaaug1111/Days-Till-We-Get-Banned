@@ -1,4 +1,4 @@
-# Days-Till-We-Get-Banned
+Days-Till-We-Get-Banned
 <!DOCTYPE html>
 <html lang="en"><head>
 <meta charset="utf-8"/>
